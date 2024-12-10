@@ -1,6 +1,4 @@
-README for sql-agent-plotter
-
-sql-agent-plotter
+## sql-agent-plotter
 
 A versatile AI-powered tool for SQL query generation, analysis, and visualization.
 
